@@ -6,7 +6,9 @@ import javafx.scene.paint.Color;
 import javafx.scene.shape.Circle;
 import javafx.stage.Stage;
 
-
+/**
+ * Created by brian on 5/16/14.
+ */
 public class ASimpleApp extends Application {
 
     public static void main(String[] args) {

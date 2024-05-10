@@ -1,8 +1,9 @@
-# csis10aFinal
-## Snake Game
+# JavaFX Lecture
 
-This is my Final for Csis10a.
+Classes for teaching JavaFX
 
-Keys: Up/Down/Left/Right or WASD to move
+To run a demo use the following command style. Relace `ASimpleApp` with whatever class you are trying to run.
 
-
+```bash
+mvn compile exec:java "-Dexec.mainClass=javafxlecture.ASimpleApp"
+```
